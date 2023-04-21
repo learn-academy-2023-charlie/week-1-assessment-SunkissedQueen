@@ -7,10 +7,10 @@
 
 // --------------------INSTRUCTOR EXAMPLE: What will this log?
 const colors = ["tangerine", "magenta", "lilac", "daffodil"]
-// console.log(colors.push("indigo"))
+console.log(colors.push("indigo"))
 
-// a) Your answer:
-// b) Verify and explain:
+// a) Your answer: ["tangerine", "magenta", "lilac", "daffodil", "indigo"]
+// b) Verify and explain: 5; when logging the mutating action of push it will display the change in values. To see the actual array, we will just log the array name. console.log(colors)
 
 // --------------------1) What will this log?
 
