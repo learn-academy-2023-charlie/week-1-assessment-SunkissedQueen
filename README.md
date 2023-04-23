@@ -1,3 +1,5 @@
+Note: Please do not clone this repo. Everyone will have an individual assessment repo. If the repo does not have your github handle on it, you are in the wrong repo.
+
 # Assessment for Week 1
 
 Being a developer requires an acute attention to detail. The expectation of this assessment is that all instructions are read carefully and followed completely.
